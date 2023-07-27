@@ -7,16 +7,13 @@ export default function About() {
       <h1>About</h1>
       <img height="200px" src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Anthony" />
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      Anthony is a full stack web developer with a background in sales and
+        customer service. He recently earned a certificate in full stack web
+        development from the University of Utah. He is a creative problem
+        solver, who is passionate about developing apps, with a focus on mobile
+        first design and development. He is excited to leverage his skills as
+        part of a fast-paced, quality-driven team to build better experiences on
+        the web.
       </p>
     </div>
   );
