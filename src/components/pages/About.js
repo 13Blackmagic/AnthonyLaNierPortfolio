@@ -1,9 +1,11 @@
 import React from 'react';
+let authorPic = "/assets/images/mmee.jpg";
 
 export default function About() {
   return (
     <div>
       <h1>About</h1>
+      <img height="200px" src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Anthony" />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
         velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
