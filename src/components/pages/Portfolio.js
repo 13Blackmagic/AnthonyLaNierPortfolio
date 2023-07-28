@@ -29,6 +29,10 @@ export default function Portfolio() {
         This was one of my favorite projects. It was creating a Readme.md file using node.js.<br/>
         Node.js Project: <a href="https://github.com/13Blackmagic/README">Readme.md</a>
       </p>
+      <p>
+        This challenge uses OOP (Object Oriented Programming) and it was really fun to make.<br/>
+        OOP Project: <a href="https://github.com/13Blackmagic/Shapes">Shapes</a>
+      </p>
 
     </div>
   );
