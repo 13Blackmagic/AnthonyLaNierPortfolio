@@ -5,19 +5,14 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
+        I worked for Walgreens for nine years. I started as a cashier and worked <br/>
+        my way up to a shift lead. I was in charge of the store when the <br/>
+        manager was not there. I was in charge of the employees and the <br/>
+        customers. I was in charge of the money and the safe. I was in charge of <br/>
+        the store. I was in charge of the store when the manager was not there. <br/>
+        Then I became an assistant manager and I was in that position for four and a helf years. <br/>
+        Then I became a manager and I was in that position for a year before I wanted to become a web developer. <br/>
+        I have gone through a bootcamp and I am now a full stack web developer. <br/>
       </p>
     </div>
   );
