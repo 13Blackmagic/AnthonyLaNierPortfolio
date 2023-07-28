@@ -17,6 +17,18 @@ export default function Portfolio() {
         This is one of my favorite projects. It was really fun to make and I learned a lot about Nosql.<br/>
         Nosql Project: <a href="https://github.com/13Blackmagic/Employees">Employees</a>
       </p>
+      <p>
+        This was a challenge on ORM (Object Relational Mapping) and it was really fun to make.<br/>
+        ORM Project: <a href="https://github.com/13Blackmagic/Manager">Manager</a>
+      </p>
+      <p>
+        This was a challenge on Express.js and it was on taking notes.<br/>
+        Express.js Project: <a href="https://github.com/13Blackmagic/take-notes">Take Notes</a>
+      </p>
+      <p>
+        This was one of my favorite projects. It was creating a Readme.md file using node.js.<br/>
+        Node.js Project: <a href="https://github.com/13Blackmagic/README">Readme.md</a>
+      </p>
 
     </div>
   );
