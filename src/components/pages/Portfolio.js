@@ -10,9 +10,14 @@ export default function Portfolio() {
 
       <p>
         This is one of my favorite projects. It was really fun to make and I
-        learned a lot about Nosql databases and how to use them.<br/>
-        First Project: <a href="https://github.com/13Blackmagic/Tom-did-nothing-wrong">Tom did nothing wrong</a>
+        learned a lot about .<br/>
+        PWA (Progressive Web Applications)  Project: <a href="https://github.com/13Blackmagic/Tom-did-nothing-wrong">Tom did nothing wrong</a>
       </p>
+      <p>
+        This is one of my favorite projects. It was really fun to make and I learned a lot about Nosql.<br/>
+        Nosql Project: <a href="https://github.com/13Blackmagic/Employees">Employees</a>
+      </p>
+
     </div>
   );
 }
