@@ -34,7 +34,7 @@ export default function Portfolio() {
         This was an early project that I did It is a code quiz using javascript.<br/>
         Javascript Project: <a href="https://github.com/13Blackmagic/code-quiz ">Code Quiz</a>
       </p>
-        <img height="400px" src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="Anthony" />
+        <img height="400px" src={process.env.PUBLIC_URL + authorPic} className=" float-left myPic" alt="codequiz" />
         </div>
   );
 }
