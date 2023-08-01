@@ -1,8 +1,8 @@
 import React from 'react';
 let authorPic = "/assets/images/code quiz.jpeg";
 let authorpic2 = "/assets/images/NoSQL.png";
-let authorpic3 = "/assets/images/express.jpeg";
-let authorpic4 = "/assets/images/README.jpeg";
+let authorpic3 = "/assets/images/take notes.jpeg";
+let authorpic4 = "/assets/images/node.jpeg";
 let authorpic5 = "/assets/images/shapes.jpeg";
 let authorpic6 = "/assets/images/tom.jpeg";
 
