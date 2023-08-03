@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anthony-lanier-portfolio/static/css/main.da3089f3.css",
+    "main.js": "/anthony-lanier-portfolio/static/js/main.b20bf306.js",
+    "index.html": "/anthony-lanier-portfolio/index.html",
+    "main.da3089f3.css.map": "/anthony-lanier-portfolio/static/css/main.da3089f3.css.map",
+    "main.b20bf306.js.map": "/anthony-lanier-portfolio/static/js/main.b20bf306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.b20bf306.js"
+  ]
+}
