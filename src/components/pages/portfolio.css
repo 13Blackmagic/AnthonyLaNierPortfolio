@@ -1,0 +1,36 @@
+.col1 {
+    background-color: lightgreen;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.col2 {
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.col3 {
+    background-color: lightpink;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.col4 {
+    background-color: rgb(236, 236, 54);
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.col5 {
+    background-color: rgb(146, 81, 230);
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
+.col6 {
+    background-color: lightcoral;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+}
