@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/anthony-lanier-portfolio/static/css/main.da3089f3.css",
-    "main.js": "/anthony-lanier-portfolio/static/js/main.b20bf306.js",
+    "main.css": "/anthony-lanier-portfolio/static/css/main.c538a956.css",
+    "main.js": "/anthony-lanier-portfolio/static/js/main.4f4aaf28.js",
     "index.html": "/anthony-lanier-portfolio/index.html",
-    "main.da3089f3.css.map": "/anthony-lanier-portfolio/static/css/main.da3089f3.css.map",
-    "main.b20bf306.js.map": "/anthony-lanier-portfolio/static/js/main.b20bf306.js.map"
+    "main.c538a956.css.map": "/anthony-lanier-portfolio/static/css/main.c538a956.css.map",
+    "main.4f4aaf28.js.map": "/anthony-lanier-portfolio/static/js/main.4f4aaf28.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3089f3.css",
-    "static/js/main.b20bf306.js"
+    "static/css/main.c538a956.css",
+    "static/js/main.4f4aaf28.js"
   ]
 }
