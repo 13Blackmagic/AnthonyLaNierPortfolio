@@ -22,14 +22,14 @@ export default function Portfolio() {
       <p>
         This is one of my favorite projects. It was really fun to make and I
         learned a lot about .<br/>
-        PWA (Progressive Web Applications)  Project: <a href="https://github.com/13Blackmagic/Tom-did-nothing-wrong">Tom did nothing wrong</a>
+        nosql Project: <a href="https://github.com/13Blackmagic/Tom-did-nothing-wrong">Tom did nothing wrong</a>
       </p>
       <img height="200px" src={process.env.PUBLIC_URL + authorpic6} className=" float-left myPic" alt="pwa" /> 
       </div>
       <div className="col-md-5 col2">
       <p>
-        This is one of my favorite projects. It was really fun to make and I learned a lot about Nosql.<br/>
-        Nosql Project: <a href="https://github.com/13Blackmagic/Employees">Employees</a>
+        This is one of my favorite projects. It was really fun to make and I learned a lot about sql.<br/>
+        sql Project: <a href="https://github.com/13Blackmagic/Employees">Employees</a>
       </p>
       <img height="200px" src={process.env.PUBLIC_URL + authorpic2} className=" float-left myPic" alt="nosql" />
       </div>
