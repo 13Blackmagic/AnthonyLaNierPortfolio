@@ -1,5 +1,5 @@
-import React from 'react';
-
+import React from 'react'; // this is importing the react library
+// this is for the function
 export default function Contact() {
   return (
     <div>

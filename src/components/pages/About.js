@@ -1,7 +1,7 @@
 import React from 'react';
 // import "/assets/style.css";
 import "./about.css";
-
+// this is for the image
 let authorPic = "/assets/images/mmee.jpg";
 <link rel="stylesheet" type="text/css" href="../assets/style.css"/>
 export default function About() {
